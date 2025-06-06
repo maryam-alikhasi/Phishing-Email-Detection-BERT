@@ -14,7 +14,6 @@ Train a fine-tuned BERT-based classifier to identify phishing emails from regula
 
 - **Name**: Phishing Email Dataset  
 - **Source**: [Kaggle Dataset - naserabdullahalam/phishing-email-dataset](https://www.kaggle.com/datasets/naserabdullahalam/phishing-email-dataset)  
-- **File**: `phishing_email.csv`
 - **Columns**:
   - `body`: Email content
   - `label`: Target label (`phishing` or `legitimate`)
